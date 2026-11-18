@@ -28,3 +28,6 @@ The simulation includes 300 simulated college students:
 ## Limitations
 The data used in this project are simulated and do not represent actual college students. The model is based on patterns discussed in previous research. Stress-and-Memory-Simulation
 Computational modeling project exploring how stress may affect memory recall in college students
+## Simulation Animation
+
+![Stress and Memory Simulation](Stress_Memory_Simulation.gif)
